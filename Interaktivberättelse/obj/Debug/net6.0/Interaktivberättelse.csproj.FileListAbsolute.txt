@@ -1,0 +1,15 @@
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\bin\Debug\net6.0\Interaktivberättelse.exe
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\bin\Debug\net6.0\Interaktivberättelse.deps.json
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\bin\Debug\net6.0\Interaktivberättelse.runtimeconfig.json
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\bin\Debug\net6.0\Interaktivberättelse.dll
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\bin\Debug\net6.0\Interaktivberättelse.pdb
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\Interaktivberättelse.csproj.AssemblyReference.cache
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\Interaktivberättelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\Interaktivberättelse.AssemblyInfoInputs.cache
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\Interaktivberättelse.AssemblyInfo.cs
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\Interaktivberättelse.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\Interaktivberättelse.dll
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\refint\Interaktivberättelse.dll
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\Interaktivberättelse.pdb
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\Interaktivberättelse.genruntimeconfig.cache
+C:\Users\Nicole\Documents\Skola\Interaktivberättelse\Interaktivberättelse\obj\Debug\net6.0\ref\Interaktivberättelse.dll

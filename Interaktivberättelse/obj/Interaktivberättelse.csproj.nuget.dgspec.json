@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\Interaktivberättelse.csproj": {}
+    "C:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\Interaktivberättelse.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\Interaktivberättelse.csproj": {
+    "C:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\Interaktivberättelse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\Interaktivberättelse.csproj",
+        "projectUniqueName": "C:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\Interaktivberättelse.csproj",
         "projectName": "Interaktivberättelse",
-        "projectPath": "c:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\Interaktivberättelse.csproj",
+        "projectPath": "C:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\Interaktivberättelse.csproj",
         "packagesPath": "C:\\Users\\Nicole\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\obj\\",
+        "outputPath": "C:\\Users\\Nicole\\Documents\\Skola\\Interaktivberättelse\\Interaktivberättelse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nicole\\AppData\\Roaming\\NuGet\\NuGet.Config"
